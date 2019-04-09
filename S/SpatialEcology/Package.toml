@@ -1,0 +1,7 @@
+authors = ["mkborregaard <mkborregaard@snm.ku.dk"]
+desc = "Julia framework for spatial ecology"
+keywords = ["macroecology", "ecology", "biology", "geography"]
+license = "MIT"
+name = "SpatialEcology"
+repo = "https://github.com/EcoJulia/SpatialEcology.jl.git"
+uuid = "348f2d5d-71a3-5ad4-b565-8af070f99681"
