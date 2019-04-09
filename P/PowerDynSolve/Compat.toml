@@ -1,0 +1,5 @@
+["0.6"]
+DifferentialEquations = "5.0.0-5"
+Julia = "1.0.0-1"
+PowerDynBase = "0.0.0-0"
+PowerDynOperationPoint = "0.2.0-0.2"
