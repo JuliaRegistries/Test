@@ -10,5 +10,6 @@ from this registry.
 """
 
 [packages]
-7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
 682c06a0-de6a-54ab-a142-c8b1cf79cde6 = { name = "JSON", path = "J/JSON" }
+7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
+ba82f77b-6841-5d2e-bd9f-4daf811aec27 = { name = "GPUifyLoops", path = "G/GPUifyLoops" }
