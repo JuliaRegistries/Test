@@ -10,5 +10,6 @@ from this registry.
 """
 
 [packages]
-7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
+2f4a34ea-5984-11e9-2cc9-9794ef97f1d5 = { name = "KirchMig", path = "K/KirchMig" }
 682c06a0-de6a-54ab-a142-c8b1cf79cde6 = { name = "JSON", path = "J/JSON" }
+7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }

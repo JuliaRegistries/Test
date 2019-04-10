@@ -1,0 +1,4 @@
+authors = ["cdacosta <c.dacostaf@gmail.com>"]
+name = "KirchMig"
+repo = "https://github.com/cako/KirchMig.jl.git"
+uuid = "2f4a34ea-5984-11e9-2cc9-9794ef97f1d5"
