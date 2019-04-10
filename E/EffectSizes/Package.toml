@@ -1,0 +1,4 @@
+authors = ["harryscholes <harryscholes@gmail.com>"]
+name = "EffectSizes"
+repo = "https://github.com/harryscholes/EffectSizes.jl.git"
+uuid = "e248de7e-9197-5860-972e-353a2af44d75"
