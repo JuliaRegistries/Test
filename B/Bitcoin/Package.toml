@@ -1,0 +1,8 @@
+authors = ["Simon Castano <simon@brane.cc>"]
+description = "Bitcoin Library"
+keywords = ["blockchain"]
+license = "MIT"
+name = "Bitcoin"
+repo = "https://github.com/roshii/Bitcoin.jl.git"
+repository = "https://gitlab.com/braneproject/Bitcoin.jl.git"
+uuid = "785d7830-48c5-59de-ae5e-7712913079e9"
