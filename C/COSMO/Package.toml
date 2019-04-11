@@ -1,0 +1,4 @@
+authors = ["Michael <michael@garstka.org>"]
+name = "COSMO"
+repo = "https://github.com/oxfordcontrol/COSMO.jl.git"
+uuid = "c9640460-5c3f-11e9-2ef6-617bfcaaaa93"
