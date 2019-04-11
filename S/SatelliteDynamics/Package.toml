@@ -1,0 +1,4 @@
+authors = ["Duncan Eddy <duncan.eddy@gmail.com>"]
+name = "SatelliteDynamics"
+repo = "https://github.com/sisl/SatelliteDynamics.jl.git"
+uuid = "0e7c1a32-1b9f-5532-88a4-e668712d6a4c"
