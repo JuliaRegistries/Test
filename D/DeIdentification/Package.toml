@@ -1,0 +1,4 @@
+authors = ["Brown Center for Biomedical Informatics"]
+name = "DeIdentification"
+repo = "https://github.com/bcbi/DeIdentification.jl.git"
+uuid = "b905b068-7150-5b22-bc23-80596c88c6a6"
