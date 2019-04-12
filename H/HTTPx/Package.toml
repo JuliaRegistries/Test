@@ -1,0 +1,3 @@
+name = "HTTPx"
+repo = "https://github.com/tlienart/HTTPx.jl.git"
+uuid = "e3795725-4b94-539f-835e-88d99c26ecdb"
