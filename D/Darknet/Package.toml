@@ -1,0 +1,4 @@
+authors = ["Ian Butterworth <i.r.butterworth@gmail.com"]
+name = "Darknet"
+repo = "https://github.com/ianshmean/Darknet.jl.git"
+uuid = "e2912957-7d06-5673-a7d6-96d153624877"
