@@ -1,0 +1,4 @@
+authors = ["Shahriar Iravanian <siravan@emory.edu>"]
+name = "CuDiff"
+repo = "https://github.com/siravan/CuDiff.jl.git"
+uuid = "81ef7840-589c-11e9-1444-f983ab686d67"
