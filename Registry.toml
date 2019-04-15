@@ -10,5 +10,6 @@ from this registry.
 """
 
 [packages]
-7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
 682c06a0-de6a-54ab-a142-c8b1cf79cde6 = { name = "JSON", path = "J/JSON" }
+7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
+904591bb-b899-562f-9e6f-b8df64c7d480 = { name = "IncrementalInference", path = "I/IncrementalInference" }
